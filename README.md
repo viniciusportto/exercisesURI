@@ -1,3 +1,3 @@
-# Exercicios JAVA - Beecrowd
+# Exercises JAVA - Beecrowd
 
-Você pode encontrar os enunciados dos problemas [aqui](https://www.beecrowd.com.br/judge/pt/search)
+You can find the problem statements [HERE](https://www.beecrowd.com.br/judge/pt/search).
